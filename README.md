@@ -10,7 +10,7 @@
 Memahami, merancang, dan mengimplementasikan dasar-dasar pemecahan masalah optimasi menggunakan pendekatan evolusioner Algoritma Genetika (Algen). Fokus utama pada pertemuan ini adalah mengeksekusi model komputasi untuk menuntaskan studi kasus Knapsack Problem, yakni menemukan persentase konfigurasi maksimal pemuatan 9 variasi barang bawaan yang menghasilkan total keuntungan utilitas terbesar tanpa melampaui limitasi bobot kapasitas wadah sebesar 50 unit.
 
 ## 2. Struktur Repositori
-- main.py : Berisi baris kode pemrograman Python utama.
+- main_algoritma1.py : Berisi baris kode pemrograman Python utama.
 - README.md : Berisi panduan teknis dan analisis operasional sistem.
 
 ## 3. Penjelasan Kerja Kode dan Dampak Output
