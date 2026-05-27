@@ -1,4 +1,4 @@
-# Dokumentasi Praktikum Algoritma Genetika 1 - Knapsack Problem
+# Dokumentasi Praktikum Algoritma Genetika 1
 
 **Identitas Mahasiswa:**
 * Nama: Nalendra Wicaksana
